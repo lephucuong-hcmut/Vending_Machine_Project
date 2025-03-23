@@ -1,10 +1,10 @@
 # Vending Machine Project
 
-Overview
+#Overview
 
 Our vending machine project is designed based on the fundamental functions of an automatic vending machine, with the following specifications:
 
-Features
+#Features
 
 1. Display Product Information
 
