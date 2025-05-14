@@ -3,9 +3,9 @@
 #Overview
 
 Our vending machine project is designed based on the fundamental functions of an automatic vending machine, with the following specifications:
-![Image](https://github.com/user-attachments/assets/e071d465-62a9-4e46-a3ff-1c1e73006368)
-![Image](https://github.com/user-attachments/assets/3740ea8f-58ac-4f5d-971d-a7a4a521380e)
-![Image](https://github.com/user-attachments/assets/bfff5e35-15d0-4a47-8609-459bfb883d2e)
+![Devices](https://github.com/user-attachments/assets/3740ea8f-58ac-4f5d-971d-a7a4a521380e)
+![Modules](https://github.com/user-attachments/assets/e071d465-62a9-4e46-a3ff-1c1e73006368)
+![FSM](https://github.com/user-attachments/assets/bfff5e35-15d0-4a47-8609-459bfb883d2e)
 
 #Features
 
